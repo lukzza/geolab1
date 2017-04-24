@@ -14,6 +14,7 @@ header	{
 .logo-parent{
 	display: inline-block;
 	vertical-align: middle;
+	width: 200px;
 
 }
 .header-nav{
